@@ -40,7 +40,7 @@ namespace ElevatorInterface_level1
             _floorRequests = new List<FloorRequestButton>();
             _insideRequests = new List<int>();
             _visitedFloors = new HashSet<int>();
-            _logFilePath =  @".\elevator.txt";
+            _logFilePath = @"C:\Users\talha\Desktop\elevator.txt";
             InitializeComponent();
         }
 
@@ -183,7 +183,6 @@ namespace ElevatorInterface_level1
                     break;
                 default:
                     this.pictureBox1.Image = (ElevatorInterface_level1.Properties.Resources.stopped);
-
                     break;
             }
         }
