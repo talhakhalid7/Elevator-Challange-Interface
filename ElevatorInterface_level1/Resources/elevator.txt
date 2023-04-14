@@ -1,0 +1,22 @@
+[14/04/2023 6:46:40 am] Inside request for floor 7 added.
+[14/04/2023 6:46:40 am] Passed floor 2.
+[14/04/2023 6:46:41 am] Passed floor 3.
+[14/04/2023 6:46:41 am] Floor 5 Up request added.
+[14/04/2023 6:46:42 am] Passed floor 4.
+[14/04/2023 6:46:43 am] Passed floor 5.
+[14/04/2023 6:46:43 am] Inside request for floor 2 added.
+[14/04/2023 6:46:44 am] Floor 5 Up request serviced.
+[14/04/2023 6:46:44 am] Passed floor 6.
+[14/04/2023 6:46:45 am] Floor 2 Down request added.
+[14/04/2023 6:46:45 am] Passed floor 7.
+[14/04/2023 6:46:46 am] Floor 3 Down request added.
+Stopped at floor 7.
+[14/04/2023 6:46:52 am] Passed floor 6.
+[14/04/2023 6:46:53 am] Passed floor 5.
+[14/04/2023 6:46:54 am] Passed floor 4.
+[14/04/2023 6:46:55 am] Passed floor 3.
+Stopped at floor 3.
+[14/04/2023 6:47:00 am] Passed floor 2.
+Stopped at floor 2.
+Stopped at floor 2.
+[14/04/2023 6:47:09 am] All requests completed. Elevator stopped.
